@@ -1,0 +1,14 @@
+
+.icon {
+    font-size: 30px;
+    color:rgb(44, 62, 80);
+}
+.lineBlack{
+    background-color:rgb(44, 62, 80);
+
+    height:0.25rem;
+    width:7rem;
+    border: 1px solid rgb(44, 62, 80);
+
+    border-radius: 25px; 
+}

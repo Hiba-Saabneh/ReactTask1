@@ -1,0 +1,16 @@
+.back{
+    background-color: #1abc9c;
+    height: 100vh;
+}
+h1{
+    font-size: 60px;
+}
+.size{
+font-size: 25px;
+}
+.headSize{
+    font-size: 60px;
+}
+.pt{
+    padding-top: 100px;
+}

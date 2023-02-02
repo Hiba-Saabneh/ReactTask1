@@ -1,0 +1,14 @@
+
+.icon {
+    font-size: 30px;
+    color:white;
+}
+.linewhite{
+    background-color:white;
+
+    height:0.25rem;
+    width:7rem;
+    border: 1px solid white;
+
+    border-radius: 25px; 
+}

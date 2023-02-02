@@ -1,0 +1,12 @@
+.back{
+    color:rgb(44, 62, 80);
+    font-size: 3.5rem;
+}
+.container{
+    width:50%;
+    margin: auto;
+}
+
+.border{
+    border-bottom: 1px solid  rgb(206,212,218) ;
+}
